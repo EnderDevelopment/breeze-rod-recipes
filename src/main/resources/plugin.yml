@@ -1,0 +1,5 @@
+name: BreezeRodCrafting
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Adds a recipe for crafting Breeze Rods from Lapis Lazuli.
